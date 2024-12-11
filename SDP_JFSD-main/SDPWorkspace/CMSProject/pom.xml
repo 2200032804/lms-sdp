@@ -11,7 +11,7 @@
 	<groupId>com.klef.jfsd.springboot</groupId>
 	<artifactId>CMSProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>CMSProject</name>
 	<description>CMS SDP Project </description>
 	<properties>
